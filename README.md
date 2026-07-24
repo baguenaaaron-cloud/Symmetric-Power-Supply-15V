@@ -64,7 +64,7 @@ All measurements performed with Rigol DS1102Z-E oscilloscope.
 ![-15V measurement](DS1Z_QuickPrint8.png)
 
 ### FFT Analysis — Single 50Hz Component
-![FFT analysis](DS1Z_QuickPrint11.png)
+![FFT analysis](DS1Z_QuickPrint18.png)
 
 FFT analysis confirms that the only significant ripple 
 component is at 50Hz from the mains supply. No parasitic 
