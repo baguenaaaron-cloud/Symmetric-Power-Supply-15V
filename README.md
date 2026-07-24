@@ -50,8 +50,6 @@ GND plane on Bottom Layer for noise reduction.
 
 ![PCB 2D layout](layout_2D.png)
 
-Gerber files available in `/PCB/Gerbers/` — ready for fabrication.
-
 ## Measurements
 
 All measurements performed with Rigol DS1102Z-E oscilloscope.
