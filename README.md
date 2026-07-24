@@ -19,7 +19,7 @@ capability.
 ## Specifications
 
 | Parameter | Value |
-
+|---|---|
 | Input voltage | +30V |
 | Output voltage | ±15V |
 | Ripple +15V | 60mV Vpp |
@@ -72,7 +72,7 @@ oscillations or harmonics observed, confirming loop stability.
 ### Ripple Analysis
 
 | Rail | Ripple | Dominant frequency | Assessment |
-
+|---|---|---|---|
 | +15V | 60mV Vpp | 50Hz | Acceptable for analog signal circuits |
 | -15V | 60mV Vpp | 50Hz | Acceptable for analog signal circuits |
 
