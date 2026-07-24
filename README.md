@@ -46,9 +46,9 @@ to minimize crossover distortion. R4 and R5 limit base current.
 Designed in Altium Designer 26. 2-layer PCB with solid 
 GND plane on Bottom Layer for noise reduction.
 
-![PCB 3D render](PCB/render_3D.png)
+![PCB 3D render](render_3D.png)
 
-![PCB 2D layout](PCB/layout_2D.png)
+![PCB 2D layout](layout_2D.png)
 
 Gerber files available in `/PCB/Gerbers/` — ready for fabrication.
 
