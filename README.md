@@ -20,12 +20,12 @@ capability.
 
 | Parameter | Value |
 
-Input voltage | +30V 
-Output voltage | ±15V 
-Ripple +15V | 60mV Vpp
-Ripple -15V | 60mV Vpp
-Dominant ripple frequency | 50Hz (mains) 
-Adjustment | Trimmer potentiometer 
+| Input voltage | +30V |
+| Output voltage | ±15V |
+| Ripple +15V | 60mV Vpp |
+| Ripple -15V | 60mV Vpp |
+| Dominant ripple frequency | 50Hz (mains) |
+| Adjustment | Trimmer potentiometer |
 
 ## Circuit Description
 
