@@ -16,6 +16,7 @@ capability.
 
 +30V Input → Adjustable Voltage Divider → TL072CDR Buffer → Class AB Output Stage → ±15V Output
 
+
 ## Specifications
 
 | Parameter | Value |
@@ -46,9 +47,11 @@ to minimize crossover distortion. R4 and R5 limit base current.
 Designed in Altium Designer 26. 2-layer PCB with solid 
 GND plane on Bottom Layer for noise reduction.
 
-![PCB 3D render](main/render_3D.png)
+![PCB 3D render](render_3D.png)
 
-![PCB 2D layout](main/layout_2D.png)
+![PCB 2D layout](layout_2D.png)
+
+Gerber files included — ready for fabrication.
 
 ## Measurements
 
