@@ -49,7 +49,7 @@ GND plane on Bottom Layer for noise reduction.
 
 ![PCB 3D render](render_3D.PNG)
 
-![PCB 2D layout](layout_2D.PNG)
+![PCB 2D layout](Layout_2D.PNG)
 
 Gerber files included — ready for fabrication.
 
