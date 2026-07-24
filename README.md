@@ -55,13 +55,13 @@ GND plane on Bottom Layer for noise reduction.
 All measurements performed with Rigol DS1102Z-E oscilloscope.
 
 ### +15V Output — 60mV Vpp Ripple
-![+15V measurement](Measurements/DS1Z_QuickPrint5.png)
+![+15V measurement](DS1Z_QuickPrint5.png)
 
 ### -15V Output — 60mV Vpp Ripple
-![-15V measurement](Measurements/DS1Z_QuickPrint8.png)
+![-15V measurement](DS1Z_QuickPrint8.png)
 
 ### FFT Analysis — Single 50Hz Component
-![FFT analysis](Measurements/DS1Z_QuickPrint11.png)
+![FFT analysis](DS1Z_QuickPrint11.png)
 
 FFT analysis confirms that the only significant ripple 
 component is at 50Hz from the mains supply. No parasitic 
